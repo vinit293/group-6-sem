@@ -1,0 +1,6 @@
+Student: Logs in, takes exams, and views results.
+• Teacher: Logs in, adds questions to the system.
+• Admin: Logs in, manages users, reviews student results, and adds
+questions.
+• Authentication: Ensures users are properly authenticated before
+accessing their respective functionalities.
